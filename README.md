@@ -1,4 +1,4 @@
-Got the new Mac m4Max chip and just playing around with it
+Simple m4Max SoC experiment
 
 # To Run
 
