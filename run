@@ -1,0 +1,8 @@
+gcc -o thread_stuff thread_stuff.c
+python3 -m venv venv
+source venv/bin/activate
+pip install matplotlib 
+python3 script.py
+rm thread_stuff
+deactivate
+rm -rf venv
